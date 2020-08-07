@@ -9,7 +9,7 @@ live preview : https://webtain-weather-app.netlify.app/
 #### Clone this repo
 
 ```
-git clone https://github.com/bradtraversy/simple-electron-react.git
+https://github.com/WebStain/Weather-App-JS.git
 ```
 
 #### Install dependencies
