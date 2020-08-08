@@ -2,7 +2,7 @@
 
 This is a simple weather app using javascript and openweathermap API
 
-live preview : https://webtain-weather-app.netlify.app/
+live preview : https://webstain-weather-app.netlify.app/
 
 ### Install
 
